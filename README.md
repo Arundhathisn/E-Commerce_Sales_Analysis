@@ -37,6 +37,20 @@ Dataset used: **Sample Superstore Dataset**
 - Sales & Profit by Sub-category (Bar chart)
 - Sales vs Profit by Segment (Grouped Bar chart)
 - Sales-to-Profit Ratio table
+ ## 📊 Visual Insights from the Analysis
+
+### 📈 Monthly Sales Analysis
+![Monthly Sales Analysis](monthly_sales.png)
+
+### 🛍️ Sales Analysis by Category
+![Sales by Category](sales_analysis_by_category.png)
+
+### 🪑 Profit Analysis by Sub-Category
+![Profit by Sub-Category](profit_analysis_by_sub_category.png)
+
+### 👥 Sales & Profit by Customer Segment
+![Segment Analysis](sales_and_profit_analysis_by_customer_segment.png)
+
 
 ## 🛠 Tools Used
 - Python
